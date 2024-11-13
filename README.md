@@ -1,2 +1,2 @@
-# Magang-Springboot-
+# Magang-Springboot
 Pengembangan Aplikasi Berbasis Spring Boot dengan Study Kasus
